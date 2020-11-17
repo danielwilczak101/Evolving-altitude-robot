@@ -1,12 +1,20 @@
-from Constants import Constants
 from Evaluation.Evaluation import Evaluation
 import serial
 import time
 
+# How i think a chromosome looks like
+# [1252,1267,1248,1264,1242,1249,1267,1265,1263,1267]
+
+class Constants:
+	# Min/Max throttle Value
+    gene_lower_bound = 1240
+    gene_upper_bound = 1280
+    max_height = 160
+    arduino_comm_port = "/dev/ttyACM0"
 
 class SumOfDiffEvaluation2(Evaluation):
     def __init__(self, target_height):
-        self.target_height = target_height
+        self.target_height = 6
         # make a serial connection ONCE
         # Establish the connection with the ardunio
         self.ser = serial.Serial(Constants.arduino_comm_port, baudrate=9600, timeout=1)
@@ -20,9 +28,6 @@ class SumOfDiffEvaluation2(Evaluation):
             return False
         # string must be in this format: [1,2,3]{4,5,6}
         # string is received directly from arduino
-
-    def send_command_to_ardunio(self):
-        pass
 
     def get_fitness(self, chromosome):
         fitness = 0
