@@ -161,11 +161,6 @@ void loop() {
       myservo.writeMicroseconds(1100);
       delay(commandDelayValue);
       Serial.println(reply);
-      //Serial.println(freeMemory());
-      //Serial.println(sizeof(parsedArray) / sizeof(parsedArray[0]));
-      //Serial.println(arraySize);
-      //Serial.println(sizeof(reply));
-      //Serial.println(sizeof(c));
       string="";
     }
     else
