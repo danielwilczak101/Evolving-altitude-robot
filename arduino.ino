@@ -14,7 +14,7 @@ const int trigPin = 10;  // Sensor - TRIG Pin
 const int echoPin = 9; // Sensor - ECHO Pin
 
 String string = "";
-int throttleDelayValue = 250; // in ms, between each individual throttle value
+int throttleDelayValue = 1000; // in ms, between each individual throttle value
 int commandDelayValue = 3000; // in ms, between entire commands of getFitness from python
 
 int getNumElements(String string)
