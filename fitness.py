@@ -9,16 +9,6 @@ ser = serial.Serial(arduino_comm_port, baudrate=9600, timeout=1)
 # Allow the arduino to initialize
 time.sleep(3)
 
-
-# Create the genetic algorithm
-ga = EasyGA.GA()
-
-ga.gene_impl = lambda: random.randint(1240, 1280)
-ga.generation_goal = 1
-ga.population_size = 4
-ga.chromosome_length = 10
-
-
 def is_valid(sentString, recvString):
     """Check to see if the value recieved has the command inside of it.String
     is received directly from arduino.
@@ -111,10 +101,22 @@ def ga_robot_fitness(chromosome):
 
 # Set the fitness
 ga.fitness_function_impl = ga_robot_fitness
-# Evolve the genetic algorithm
-ga.evolve()
 
-# Print generation and population
-ga.print_generation()
-ga.print_population()
+# How many times it should repeat the run
+number_trials = 5
+
+for x in range(number_trials):
+    # Create the genetic algorithm
+    ga = EasyGA.GA()
+    ga.gene_impl = lambda: random.randint(1250, 1270)
+    ga.generation_goal = 100
+    ga.population_size = 15
+    ga.chromosome_length = 10
+    ga.target_fitness_type = 'min'
+    # Evolve the genetic algorithm
+    ga.evolve()
+
+    # Print generation and population
+    ga.print_generation()
+    ga.print_population()
 
