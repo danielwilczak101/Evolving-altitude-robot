@@ -99,8 +99,7 @@ def ga_robot_fitness(chromosome):
     return fitness
 
 
-# Set the fitness
-ga.fitness_function_impl = ga_robot_fitness
+
 
 # How many times it should repeat the run
 number_trials = 5
@@ -108,6 +107,10 @@ number_trials = 5
 for x in range(number_trials):
     # Create the genetic algorithm
     ga = EasyGA.GA()
+    
+    # Set the fitness
+    ga.fitness_function_impl = ga_robot_fitness
+    
     ga.gene_impl = lambda: random.randint(1250, 1270)
     ga.generation_goal = 100
     ga.population_size = 15
