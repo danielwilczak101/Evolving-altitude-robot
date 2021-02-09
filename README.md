@@ -1,6 +1,4 @@
-We use the EasyGA python package and some ardunio code to use the robot. Check out the [Github](https://github.com/danielwilczak101/Genetic-Algorithm-Robot) page.
-
-## Genetic-Algorithm-Robot
+## Evolving Altitude Robot
 
 <img width="600px" src="https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/media/images/two_robots.jpg">
 
