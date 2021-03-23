@@ -19,5 +19,7 @@ An initial population of 15 chromosomes and 100 generations were used during the
 Total generation fitness per generation using 5 separate trials.
 <img  src="https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/media/images/kyle_total.png">
 
-Lowest/best fitness of each generation using 5 separate trials.
-<img  src="https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/media/images/kyle_lowest.png">
+Jeff:
+
+Lowest/best fitness of each generation using.
+<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
