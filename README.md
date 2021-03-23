@@ -18,24 +18,24 @@ An initial population of 15 chromosomes and 100 generations were used during the
 
 # Linda:
 Total generation fitness for all trials.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
+<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Linda/Generation_data.png">
 
 Lowest value chromosome for each generation of all trial runs.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
+<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Linda/Lowest_chromsome.png">
 
 
 # Kyle:
 Total generation fitness for all trials.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
+<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Kyle/Generation_data.png">
 
 Lowest value chromosome for each generation of all trial runs.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
+<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Kyle/Lowest_chromosome.png">
 
 
 # Jeff:
 
 Total generation fitness for all trials.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
+<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/generation_data.png">
 
 Lowest value chromosome for each generation of all trial runs.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
