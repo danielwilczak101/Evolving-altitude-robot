@@ -4,6 +4,12 @@ import time
 import random
 from connection_functions import send_chromosome
 
+# Setup ardunio serial conneciton
+arduino_comm_port = "/dev/ttyACM0"
+ser = serial.Serial(arduino_comm_port, baudrate=9600, timeout=1)
+# Allow the arduino to initialize
+time.sleep(3)
+
 def robot_fitness(chromosome):
     """The fitness function that calulates the fitness based
     on the robots findings."""
