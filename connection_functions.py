@@ -30,7 +30,7 @@ def height_str_to_int(heights):
     return heights_int
 
 
-def send_chromosome(chromosome):
+def send_chromosome(chromosome,ser):
     """Send the chromosome to the ardunio. This function takes in a chromosome
     parses it. Sends it to the ardunio via serial and then decodes the recieved
     values in the form [Commands list]{Fitness list}."""
@@ -69,3 +69,5 @@ def send_chromosome(chromosome):
     heights_int = height_str_to_int(heights)
 
     return heights_int
+
+
