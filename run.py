@@ -13,12 +13,15 @@ time.sleep(3)
 def robot_fitness(chromosome):
     """The fitness function that calulates the fitness based
     on the robots findings."""
+    
+    # Get the global serial communication variable.
+    global ser
 
     fitness = 0
     target_height = 6
 
     # Send the chromosome and return list of heights.
-    fitness_array = send_chromosome(chromosome)
+    fitness_array = send_chromosome(chromosome,ser)
 
     # Calculate the fitness from the list
     for height in fitness_array:
@@ -29,7 +32,7 @@ def robot_fitness(chromosome):
 
 
 # How many times it should repeat the run
-number_trials = 5
+number_trials = 1
 
 for x in range(number_trials):
     # Create the genetic algorithm
@@ -49,3 +52,5 @@ for x in range(number_trials):
     # Print generation and population
     ga.print_generation()
     ga.print_population()
+
+
