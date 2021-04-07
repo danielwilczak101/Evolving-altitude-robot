@@ -52,53 +52,8 @@ All the required 3D printed parts are located in one zipped file on the Thingver
 
 This page details the hardware setup instructions for creating the quality GA Robot
 
-## Tools Needed
-To build the GA Robot you'll need the following tools
-
-## **Electronics**
-### Arduino Shield 
-
-<a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Arduino_Shield_Assembled.JPG">
-<img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Arduino_Shield_Assembled.JPG" height="240"></a>
-&nbsp;
-<a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Arduino_Shield_Pin_Layout.JPG"><img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Arduino_Shield_Pin_Layout.JPG" height="240"></a>
-
-### Step 1 - Solder on connector pins to the Arduino Shield
-1. Left side of the Arduino Shield 
-    -  Top 7 pin male connector 
-    -  Bottom 6 pin male connector
-   
-2. Right side of the Arduino Shield
-    - 2x 8 pin male connectors 
-
-3. Solder on Female JSD Connectors to the Arduino Shield
-    - 4 Pin Female JSD connector facing the center of the Arduino Shield
-    - 3 Pin Female JSD connector facing outward of the Arduino Shield
-
-
-## Electrical 
-### Wires
-
-__(add images of wires and which connectors)__
-
-1. Create 1 wire composed of 4 internal wires with male 4 pin JSD connector on each end
-<a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Arduino_Shield_Pin_Layout.JPG"><img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Arduino_&_Ultrasonic_Wire_Layout_Zoom.JPG" height="240"></a>
-
-
-2. Create 3 separate wires that run the length of carbon fiber tube to connect from the EDF to the ESC.
-    - Each wire has one end with female 3.5mm bullet connectors and the other end with male 3.5mm bullet connectors
-<a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Tube_Wires_Layout.JPG">
-<img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Tube_Wires_Layout.JPG" height="240"></a>
-
-<a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Tube_Wires_Male_Connector.JPG">
-<img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Tube_Wires_Male_Connector.JPG" height="240"></a>
-
-<a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Tube_Wire_Female_Layout.JPG">
-<img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Tube_Wire_Female_Layout.JPG" height="240"></a>
- 
-<a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Tube_&_Wires.JPG">
-<img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Tube_&_Wires.JPG" height="240"></a>
-
+### Wiring 
+Wiring diagram here
 
 ### Electronic Speed Controller (ESC)
 
