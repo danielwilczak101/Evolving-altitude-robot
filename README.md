@@ -1,9 +1,8 @@
 ## Evolving Altitude Robot
-
-<img width="600px" src="https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/media/images/two_robots.jpg">
-
+<img src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/media/images/banner_logo.jpg">
 
 # Instructions
+<img width="600px" src="https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/media/images/two_robots.jpg">
 
 1. [Assemble Robot](#). 
 2. [Upload Ardunio Code](https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/main/arduino.ino). 
