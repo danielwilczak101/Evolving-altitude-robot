@@ -11,9 +11,9 @@ The purpose of the present study was to design a flight control system with no p
 An initial population of 15 chromosomes and 100 generations were used during the trial. The throttle value of the device had an associated gene value of 1 second. When the trial of hundred generations was completed, machine learning was achieved. Please refer to the graph for greater understanding. Preliminary results showed that optimizing a one DOF device, in real-time, is possible without using a pre-determined mathematical model. 
 
 
-#### Data from experiments:
+## Data from experiments:
 
-# Linda:
+### Linda:
 Total generation fitness for all trials.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Linda/Generation_data.png">
 
@@ -21,7 +21,7 @@ Lowest value chromosome for each generation of all trial runs.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Linda/Lowest_chromsome.png">
 
 
-# Kyle:
+### Kyle:
 Total generation fitness for all trials.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Kyle/Generation_data.png">
 
@@ -29,7 +29,7 @@ Lowest value chromosome for each generation of all trial runs.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Kyle/Lowest_chromosome.png">
 
 
-# Jeff:
+### Jeff:
 
 Total generation fitness for all trials.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/generation_data.png">
