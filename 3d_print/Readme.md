@@ -48,35 +48,12 @@ All the required 3D printed parts are located in one zipped file on the Thingver
 </tr>
 </table>
 
-### Assembly
+## Assembly
 
 This page details the hardware setup instructions for creating the quality GA Robot
 
 ### Wiring 
 Wiring diagram here
-
-### Electronic Speed Controller (ESC)
-
-__(add images of wires and which connectors)__
-<a href="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Back_Mount_ESC_Uninstalled_XT60.jpg">
-<img  src="https://github.com/EREPPLab/Test_WIKI/blob/media/Images/Back_Mount_ESC_Uninstalled_XT60.jpg" height="240"></a>
-
-
-1. Solder on XT60 female connector to power cables on ESC
-
-2. Add on 3 pin male JSD connector to ESC 5V power output
-
-### Ultrasonic Sensor
-
-__(add images of wires and which connectors)__
-
-1. Add 4 pin female JSD connector to ultrasonic sensor 
-
-
-## **3D Prints**
-
-### Visit the 3D printing page below if you have not already 3D printed your parts 
-[3D Printing Page](https://github.com/EREPPLab/Test_WIKI/wiki/3d-printing)
 
 ### Carbon Fiber Tube and EDF Assembly 
 __(add images of 3d prints, carbon fiber tube and how to insert EDF )__
@@ -90,20 +67,21 @@ __(add images of 3d prints, carbon fiber tube and how to insert EDF )__
 1. Use the 3D printed Tube Hole Guide to drill a hole in the carbon fiber tube using a 5/32 drill bit
     - Push carbon fiber tube all the way into 3D printed Tube Hole Guide until you hit the wall and then drill hole  
 
+
 2. Using pliers open up the 3D printed EDF Holder and slide in the EDF to lock in place feeding the wires below
     - Feed wires into the bottom hole on the 3D printed EDF Holder 
+
 
 3. Feed the 3 wires that you created earlier through the carbon fiber tube
     - Male 3.5 mm bullet connectors opposite of the end of the hole
     - Female 3.5 mm bullet connectors on the same side as the hole you drilled
 
-4. Connect the 3 EDF female 3.5 mm bullet connectors with the 3 male 3.5 mm bullet connectors of the extension wire
+4. Connect the 3 EDF wires with the 3 connectors of the extension wire
 
 5. Slide the carbon fiber tube into the 3D printed EDF Holder tucking the wires nicely into the cut out
 
 
-
-## **Hardware Assembly**
+## Hardware Assembly
 
 __(add images for all steps )__
 
