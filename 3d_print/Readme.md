@@ -50,7 +50,7 @@ All the required 3D printed parts are located in one zipped file on the Thingver
 
 ## Assembly
 
-This page details the hardware setup instructions for creating the quality GA Robot
+This page details the hardware setup instructions for creating the Evolving Altitude Robot
 
 ### Wiring 
 Wiring diagram here
@@ -82,8 +82,6 @@ __(add images of 3d prints, carbon fiber tube and how to insert EDF )__
 
 
 ## Hardware Assembly
-
-__(add images for all steps )__
 
 ### Step 1:  Snap in place the Arduino into 3D printed Back Mount
 <a href="https://raw.githubusercontent.com/EREPPLab/Test_WIKI/media/Images/Back_Mount_Arduino_Uninstalled.JPG">
