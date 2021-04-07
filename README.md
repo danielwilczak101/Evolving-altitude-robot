@@ -2,7 +2,7 @@
 <img src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/media/images/banner_logo.jpg">
 
 ### Instructions
-1. [Assemble Robot](#). 
+1. [Print and Assemble Robot](https://github.com/danielwilczak101/Evolving-altitude-robot/tree/main/3d_print). 
 2. [Upload Ardunio Code](https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/main/arduino.ino). 
 3. [Run Python Code](https://github.com/danielwilczak101/Genetic-Algorithm-Robot/blob/main/fitness.py). 
 
