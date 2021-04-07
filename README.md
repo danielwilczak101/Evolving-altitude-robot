@@ -14,7 +14,7 @@ An initial population of 15 chromosomes and 100 generations were used during the
 ## Data from experiments:
 
 ### Linda:
-Total generation fitness for all trials.
+Total generation fitness for all 39 trials.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Linda/Generation_data.png">
 
 Lowest value chromosome for each generation of all trial runs.
@@ -22,7 +22,7 @@ Lowest value chromosome for each generation of all trial runs.
 
 
 ### Kyle:
-Total generation fitness for all trials.
+Total generation fitness for all 36 trials.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Kyle/Generation_data.png">
 
 Lowest value chromosome for each generation of all trial runs.
@@ -31,7 +31,7 @@ Lowest value chromosome for each generation of all trial runs.
 
 ### Jeff:
 
-Total generation fitness for all trials.
+Total generation fitness for all 47 trials.
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/generation_data.png">
 
 Lowest value chromosome for each generation of all trial runs.
