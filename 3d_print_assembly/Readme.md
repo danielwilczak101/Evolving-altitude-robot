@@ -53,7 +53,7 @@ All the required 3D printed parts are located in one zipped file on the Thingver
 This page details the hardware setup instructions for creating the Evolving Altitude Robot
 
 ### Wiring Diagram
-Wiring diagram here
+<img src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/media/images/schematic.png">
 
 ### Carbon Fiber Tube and EDF Assembly 
 __(add images of 3d prints, carbon fiber tube and how to insert EDF )__
