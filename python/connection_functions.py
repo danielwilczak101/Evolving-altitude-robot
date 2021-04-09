@@ -12,7 +12,7 @@ def height_str_to_int(heights):
     """Change a string of heights in a list of heights while also error checking"""
 
     # Max height the reader should read. Anything above this is an error
-    max_height = 80
+    max_height = 100
     heights_int = []
 
     for height_str in heights:
@@ -69,5 +69,3 @@ def send_chromosome(chromosome,ser):
     heights_int = height_str_to_int(heights)
 
     return heights_int
-
-
