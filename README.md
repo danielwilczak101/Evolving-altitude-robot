@@ -12,9 +12,10 @@ An initial population of 15 chromosomes and 100 generations were used during the
 
 
 ### Experiment Data
-1. [Kyle](#). 
-2. [Linda](#). 
-3. [Jeff](#). 
+All data is in the form of a sqlite3 database. 
+1. [Kyle](https://github.com/danielwilczak101/Evolving-altitude-robot/tree/main/data). 
+2. [Linda](https://github.com/danielwilczak101/Evolving-altitude-robot/tree/main/data). 
+3. [Jeff](https://github.com/danielwilczak101/Evolving-altitude-robot/tree/main/data). 
 
 ## Graphs from Data:
 
