@@ -10,6 +10,8 @@ The purpose of the present study was to design a flight control system with no p
 
 An initial population of 15 chromosomes and 100 generations were used during the trial. The throttle value of the device had an associated gene value of 1 second. When the expirement of three separate robots each with a minimum of 30 trials of hundred generations was completed, machine learning was achieved. Please refer to the graph for greater understanding. Results showed that optimizing a one DOF device, in real-time, is possible without using a pre-determined mathematical model. 
 
+### Youtube Video
+Part 1(Assembly):https://www.youtube.com/watch?v=vMUrqwaEUfU
 
 ### Experiment Data
 All data is in the form of a sqlite3 database. 
