@@ -13,7 +13,7 @@ An initial population of 15 chromosomes and 100 generations were used during the
 ### Youtube Video
 Part 1(Assembly):https://www.youtube.com/watch?v=vMUrqwaEUfU  
 Part 2(Code): Coming soon.  
-Part 3(Results): Coming soon  
+Part 3(Results): Coming soon.  
 
 ### Experiment Data
 All data is in the form of a sqlite3 database. 
