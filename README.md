@@ -24,7 +24,5 @@ All data is in the form of a sqlite3 database.
 ## Graphs from Data:
 
 <img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/media/images/all_data.png">
-  
-Left: Average of all trials lowest chromosome.  
-Right: All trials lowest chromosome.  
+   
 
