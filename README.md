@@ -23,26 +23,6 @@ All data is in the form of a sqlite3 database.
 
 ## Graphs from Data:
 
-### Linda:
-Total generation fitness for all 39 trials.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Linda/Generation_data.png">
+<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/media/images/all_data.png">
+Left: Average of all trials lowest chromosome. Right: All trials lowest chromosome.
 
-Lowest value chromosome for each generation of all trial runs.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Linda/Lowest_chromsome.png">
-
-
-### Kyle:
-Total generation fitness for all 36 trials.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Kyle/Generation_data.png">
-
-Lowest value chromosome for each generation of all trial runs.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Kyle/Lowest_chromosome.png">
-
-
-### Jeff:
-
-Total generation fitness for all 47 trials.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/generation_data.png">
-
-Lowest value chromosome for each generation of all trial runs.
-<img width="900px"  src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/main/graphs/Jeff/lowest_chromosome.png">
