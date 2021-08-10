@@ -1,7 +1,7 @@
 ## Evolving Altitude Robot
 <img src="https://github.com/danielwilczak101/Evolving-altitude-robot/blob/media/images/banner_logo.jpg">
 
-# Medium Article published in Toward Data Science:
+## Medium Article published in Toward Data Science:
 [Link to article.](https://towardsdatascience.com/genetic-algorithm-robot-evolving-altitude-using-python-c-and-an-arduino-1acf4cf98d63)
 
 ### Instructions
